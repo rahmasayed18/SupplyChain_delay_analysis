@@ -61,6 +61,7 @@ Some top-earning markets were among the worst in average delivery delays.
 ## 📂 Project Structure  
 
 📦 Supply_Chain_SQL_Analytics
+```
 │
 ├── 01_data_cleaning.sql
 ├── 02_market_performance_analysis.sql
@@ -68,7 +69,7 @@ Some top-earning markets were among the worst in average delivery delays.
 ├── 04_root_cause_analysis.sql
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
