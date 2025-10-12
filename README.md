@@ -39,7 +39,8 @@ The most significant dip occurred in **April 2016**, primarily driven by a slowd
 
 Through deeper analysis, I found that while order volume fluctuations drove revenue peaks and dips, delivery efficiency (OTD) wasn’t strongly correlated with revenue. Shipping faster didn’t necessarily mean selling more — meaning something deeper was shaping the company’s growth.  
 
-<img width="1482" height="836" alt="execsummary" src="https://github.com/user-attachments/assets/ea0a83f1-b802-46e9-aba7-6ae5c71d75d9" />
+
+<img width="1484" height="830" alt="Screenshot 2025-10-12 220932" src="https://github.com/user-attachments/assets/80883323-aace-4e61-805e-e1d50143151a" />
 
 
 ---
@@ -64,8 +65,8 @@ The **Pearson correlation** between OTD and revenue was weak, meaning that impro
 **Key takeaway:**  
 Customers tolerate delay when the trade-off is convenience or lower cost. Standard Class quietly proved operational excellence that should be scaled across other modes.  
 
+<img width="1484" height="390" alt="Screenshot 2025-10-12 221010" src="https://github.com/user-attachments/assets/a067dd2e-ff29-4a22-b4ba-91145bf576e1" />
 
-<img width="1482" height="543" alt="Screenshot 2025-10-09 230438" src="https://github.com/user-attachments/assets/d6895714-6de3-44ff-b0aa-89af74d51b12" />
 
 ---
 
@@ -78,13 +79,14 @@ The problem didn’t lie in the shipping mode itself but in **where the shipment
 - Both states handled the largest order volumes and contributed the highest revenue totals, especially among delayed shipments.  
 - When plotting average delay days vs. total sales, PR and CA consistently appeared as **high-revenue, high-delay clusters**.  
 - The departments most affected were **Footwear, Apparel, Tech, Outdoors, and Golf** — categories that also had the highest cross-market demand.  
-- These findings suggest warehouse congestion and extended transport distances from these states were the main drivers of delay.  
+- These findings suggest that warehouse congestion and extended transport distances from these states were the main drivers of delay.  
 
 **In plain terms:**  
-The company’s most profitable markets rely too heavily on two overburdened states for fulfillment. As a result, even strong sales performance is undermined by recurring delivery inefficiencies.  
+The company’s most profitable markets rely too heavily on two overburdened states for fulfillment. As a result, even a strong sales performance is undermined by recurring delivery inefficiencies.  
 
 
-<img width="1333" height="442" alt="Screenshot 2025-10-09 230550" src="https://github.com/user-attachments/assets/8f5b20b7-fd23-4165-90c4-6b14aac07ce6" />
+<img width="1481" height="437" alt="Screenshot 2025-10-12 221029" src="https://github.com/user-attachments/assets/bdbbae4b-a223-4b05-ab22-a1e6e9a4551c" />
+
 
 ---
 
