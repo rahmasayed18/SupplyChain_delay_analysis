@@ -40,7 +40,9 @@ The most significant dip occurred in **April 2016**, primarily driven by a slowd
 Through deeper analysis, I found that while order volume fluctuations drove revenue peaks and dips, delivery efficiency (OTD) wasn’t strongly correlated with revenue. Shipping faster didn’t necessarily mean selling more — meaning something deeper was shaping the company’s growth.  
 
 
-<img width="1484" height="830" alt="Screenshot 2025-10-12 220932" src="https://github.com/user-attachments/assets/80883323-aace-4e61-805e-e1d50143151a" />
+<img width="1498" height="841" alt="11111111" src="https://github.com/user-attachments/assets/1524ffe9-3d60-4b25-a90f-923b5f36af76" />
+
+
 
 
 ---
@@ -65,7 +67,8 @@ The **Pearson correlation** between OTD and revenue was weak, meaning that impro
 **Key takeaway:**  
 Customers tolerate delay when the trade-off is convenience or lower cost. Standard Class quietly proved operational excellence that should be scaled across other modes.  
 
-<img width="1484" height="390" alt="Screenshot 2025-10-12 221010" src="https://github.com/user-attachments/assets/a067dd2e-ff29-4a22-b4ba-91145bf576e1" />
+<img width="1498" height="442" alt="22222" src="https://github.com/user-attachments/assets/86cfd721-4165-49a4-be64-df73d190839e" />
+
 
 
 ---
@@ -85,7 +88,9 @@ The problem didn’t lie in the shipping mode itself but in **where the shipment
 The company’s most profitable markets rely too heavily on two overburdened states for fulfillment. As a result, even a strong sales performance is undermined by recurring delivery inefficiencies.  
 
 
-<img width="1481" height="437" alt="Screenshot 2025-10-12 221029" src="https://github.com/user-attachments/assets/bdbbae4b-a223-4b05-ab22-a1e6e9a4551c" />
+
+<img width="1498" height="381" alt="33333" src="https://github.com/user-attachments/assets/d6c731df-8abf-4cdc-88d2-541ffea6e416" />
+
 
 
 ---
