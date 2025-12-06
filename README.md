@@ -40,7 +40,8 @@ The most significant dip occurred in **April 2016**, primarily driven by a slowd
 Through deeper analysis, I found that while order volume fluctuations drove revenue peaks and dips, delivery efficiency (OTD) wasn’t strongly correlated with revenue. Shipping faster didn’t necessarily mean selling more — meaning something deeper was shaping the company’s growth.  
 
 
-<img width="1498" height="841" alt="11111111" src="https://github.com/user-attachments/assets/1524ffe9-3d60-4b25-a90f-923b5f36af76" />
+
+<img width="1303" height="730" alt="Screenshot 2025-12-06 235534" src="https://github.com/user-attachments/assets/429b8b70-690c-4e1d-b4f0-b13db74baf8a" />
 
 
 
