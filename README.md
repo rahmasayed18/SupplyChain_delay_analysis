@@ -33,11 +33,11 @@ Before diving into analysis, I ensured the data was clean and consistent:
 
 From 2015 to 2017, the company generated roughly **$20.2M** in revenue across five major markets. Revenue peaked in 2015 (around **$7M**), fluctuated through 2016–2017, and ended slightly lower but more stable.  
 
-**Europe** emerged as the top-performing market, while **Africa** — despite having 48 active countries — contributed the least to overall revenue. Interestingly, the **US (within the USCA market)** recorded exceptionally high sales in short bursts, reaching about **$250K** in a few months between April and August.  
+**Europe** emerged as the top-performing market, while **Africa** despite having 48 active countries contributed the least to overall revenue. Interestingly, the **US (within the USCA market)** recorded exceptionally high sales in short bursts, reaching about **$250K** in a few months between April and August.  
 
 The most significant dip occurred in **April 2016**, primarily driven by a slowdown in **Europe’s order volume**. Since Europe represents the largest market, any fluctuation there had an outsized effect on overall performance.  
 
-Through deeper analysis, I found that while order volume fluctuations drove revenue peaks and dips, delivery efficiency (OTD) wasn’t strongly correlated with revenue. Shipping faster didn’t necessarily mean selling more — meaning something deeper was shaping the company’s growth.  
+Through deeper analysis, I found that while order volume fluctuations drove revenue peaks and dips, delivery efficiency (OTD) wasn’t strongly correlated with revenue. Shipping faster didn’t necessarily mean selling moremeaning something deeper was shaping the company’s growth.  
 
 
 
@@ -54,14 +54,14 @@ Through deeper analysis, I found that while order volume fluctuations drove reve
 
 At this stage, I shifted focus from markets to shipping modes, aiming to understand whether the delays were linked to transportation type rather than geography.  
 
-The scatter plot comparing revenue vs. average delay revealed a clear trade-off: higher-revenue shipping modes often showed longer delays, especially **Second Class** shipments. This shifted the narrative — the challenge wasn’t customer demand, it was operational execution.  
+The scatter plot comparing revenue vs. average delay revealed a clear trade-off: higher-revenue shipping modes often showed longer delays, especially **Second Class** shipments. This shifted the narrative the challenge wasn’t customer demand, it was operational execution.  
 
 - **Second Class** shipping generated one of the highest average delays (~2.5 days) yet ranked third in total revenue. Customers kept choosing it, suggesting price or availability outweighed punctuality.  
-- **Standard Class** emerged as the most reliable performer. It had balanced revenue, strong OTD, and — interestingly — it was the **only mode that delivered orders in advance**.  
+- **Standard Class** emerged as the most reliable performer. It had balanced revenue, strong OTD, and interestingly it was the **only mode that delivered orders in advance**.  
 - **First Class**, despite being the premium option, consistently showed a high rate of late or cancelled deliveries, making it the weakest in delivery reliability.  
-- Across all modes, **Late Delivery** dominated the delivery status counts. However, when orders did arrive early (“Advanced Delivery”), they tended to align with higher revenue and smoother operations — again, tied exclusively to **Standard Class**.  
+- Across all modes, **Late Delivery** dominated the delivery status counts. However, when orders did arrive early (“Advanced Delivery”), they tended to align with higher revenue and smoother operations again, tied exclusively to **Standard Class**.  
 
-When testing the hypothesis — “Does improving OTD increase total revenue?” — the data said no.  
+When testing the hypothesis “Does improving OTD increase total revenue?” the data said no.  
 
 The **Pearson correlation** between OTD and revenue was weak, meaning that improving on-time delivery alone wouldn’t directly boost sales. Profitability leaned more on **order volume and shipping mode efficiency** than delivery speed.  
 
@@ -101,7 +101,7 @@ The company’s most profitable markets rely too heavily on two overburdened sta
 - Streamline Second Class routes or merge overlapping paths with Standard Class to reduce redundancy.  
 - Develop a predictive delay model that flags high-risk orders before allocation based on route and warehouse congestion.  
 
-This shift would reduce the systemic bottleneck at its source — not by pushing orders to ship faster, but by sending them through smarter routes in the first place.  
+This shift would reduce the systemic bottleneck at its source not by pushing orders to ship faster, but by sending them through smarter routes in the first place.  
 
 ---
 
