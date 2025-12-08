@@ -9,7 +9,7 @@ The company operates globally in the e-commerce industry, shipping products acro
 The analysis began with a key hypothesis:  
 **“If we improve on-time delivery (OTD), total revenue and order volume will also increase.”**  
 
-That assumption didn’t hold — but what I found instead revealed how operational design and delivery trade-offs shape performance more than timing ever could.  
+That assumption didn’t hold but what I found instead revealed how operational design and delivery trade-offs shape performance more than timing ever could.  
 
 ---
 
