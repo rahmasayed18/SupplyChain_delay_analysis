@@ -82,7 +82,7 @@ The problem didn’t lie in the shipping mode itself but in **where the shipment
 
 - Both states handled the largest order volumes and contributed the highest revenue totals, especially among delayed shipments.  
 - When plotting average delay days vs. total sales, PR and CA consistently appeared as **high-revenue, high-delay clusters**.  
-- The departments most affected were **Footwear, Apparel, Tech, Outdoors, and Golf** — categories that also had the highest cross-market demand.  
+- The departments most affected were **Footwear, Apparel, Tech, Outdoors, and Golf** categories that also had the highest cross-market demand.  
 - These findings suggest that warehouse congestion and extended transport distances from these states were the main drivers of delay.  
 
 **In plain terms:**  
