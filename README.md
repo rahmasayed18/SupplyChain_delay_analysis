@@ -56,7 +56,7 @@ At this stage, I shifted focus from markets to shipping modes, aiming to underst
 
 The scatter plot comparing revenue vs. average delay revealed a clear trade-off: higher-revenue shipping modes often showed longer delays, especially **Second Class** shipments. This shifted the narrative the challenge wasn’t customer demand, it was operational execution.  
 
-- **Second Class** shipping generated one of the highest average delays (~2.5 days) yet ranked third in total revenue. Customers kept choosing it, suggesting price or availability outweighed punctuality.  
+- **Second Class** shipping generated one of the highest average delays (~2.5 days) yet ranked second in total revenue. Customers kept choosing it, suggesting price or availability outweighed punctuality.  
 - **Standard Class** emerged as the most reliable performer. It had balanced revenue, strong OTD, and interestingly it was the **only mode that delivered orders in advance**.  
 - **First Class**, despite being the premium option, consistently showed a high rate of late or cancelled deliveries, making it the weakest in delivery reliability.  
 - Across all modes, **Late Delivery** dominated the delivery status counts. However, when orders did arrive early (“Advanced Delivery”), they tended to align with higher revenue and smoother operations again, tied exclusively to **Standard Class**.  
