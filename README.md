@@ -99,7 +99,7 @@ The company’s most profitable markets rely too heavily on two overburdened sta
 **Recommendations:**  
 - Redistribute order processing and fulfillment load from PR and CA to less saturated warehouses.  
 - Streamline Second Class routes or merge overlapping paths with Standard Class to reduce redundancy.  
-- Develop a predictive delay model that flags high-risk orders before allocation based on route and warehouse congestion.  
+-Enhance the existing delay-risk flag by incorporating dynamic congestion indicators and operationalize it earlier in the order allocation process.  
 
 This shift would reduce the systemic bottleneck at its source not by pushing orders to ship faster, but by sending them through smarter routes in the first place.  
 
